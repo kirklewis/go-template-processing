@@ -1,5 +1,9 @@
 # go-template-processing
 
+## Run Demo
+```
+go run main.go
+```
 
 ## Run Tests
 ```
