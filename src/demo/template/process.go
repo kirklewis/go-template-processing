@@ -5,8 +5,8 @@ import (
 	"text/template"
 )
 
-// process injects the supplied variables 'vars' into an already
-// parsed template 't', and returns the compiled string result.
+// process applies the data structure 'vars' onto an already
+// parsed template 't', and returns the resulting string.
 func process(t *template.Template, vars interface{}) string {
 	var tmplBytes bytes.Buffer
 
