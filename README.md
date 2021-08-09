@@ -10,8 +10,6 @@ git clone https://github.com/kirklewis/go-template-processing.git
 
 cd go-template-processing
 
-export GOPATH=$PWD
-
 go run main.go
 ```
 

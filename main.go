@@ -1,8 +1,8 @@
 package main
 
 import (
-	"demo/template"
 	"fmt"
+	"github.com/kirklewis/go-template-processing/src/demo/template"
 )
 
 func main() {

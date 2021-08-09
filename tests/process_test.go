@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"demo/template"
+	"github.com/kirklewis/go-template-processing/src/demo/template"
 )
 
 var vars = map[string]string{
